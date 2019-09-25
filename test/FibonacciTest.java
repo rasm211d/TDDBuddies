@@ -2,7 +2,7 @@ import junit.framework.TestCase;
 
 public class FibonacciTest extends TestCase {
 
-    public void testcalculateResult(){
+    public void testCalculateResult(){
     long resultat;
 
         //Test med helt tal
